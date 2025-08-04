@@ -4,7 +4,7 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Graphic+Design+Enthusiast;Machine+Learning+Explorer;Always+Learning+Something+New!)
   
-  <img src="https://komarev.com/ghpvc/?username=mohamednalouardi&color=00d9ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TheCodeNoodle&color=00d9ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
 </div>
 
@@ -68,14 +68,14 @@ me = MohamedAlouardi()
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamednalouardi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamednalouardi&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheCodeNoodle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodeNoodle&layout=compact&langs_count=8&theme=tokyonight"/>
   
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamednalouardi&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheCodeNoodle&theme=tokyonight&hide_border=true)
   
 </div>
 
@@ -85,8 +85,8 @@ me = MohamedAlouardi()
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamednalouardi&repo=monthly-income-predictor&theme=tokyonight)](https://github.com/mohamednalouardi/monthly-income-predictor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamednalouardi&repo=data-analysis-toolkit&theme=tokyonight)](https://github.com/mohamednalouardi/data-analysis-toolkit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodeNoodle&repo=monthly-income-predictor&theme=tokyonight)](https://github.com/TheCodeNoodle/monthly-income-predictor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodeNoodle&repo=data-analysis-toolkit&theme=tokyonight)](https://github.com/TheCodeNoodle/data-analysis-toolkit)
 
 </div>
 
@@ -139,9 +139,8 @@ me = MohamedAlouardi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-alouardi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohamednalouardi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohamed.alouardi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alouardi-187162255/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheCodeNoodle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.alouardi@example.com)
 
 ---
