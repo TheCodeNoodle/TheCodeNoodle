@@ -90,6 +90,7 @@ me = MohamedAlouardi()
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodeNoodle&repo=linear-income-prediction&theme=tokyonight)](https://github.com/TheCodeNoodle/linear-income-prediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodeNoodle&repo=mubawab-real-estate-scraper&theme=tokyonight)](https://github.com/TheCodeNoodle/mubawab-real-estate-scraper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodeNoodle&repo=file-organizer&theme=tokyonight)](https://github.com/TheCodeNoodle/file-organizer)
 
 </div>
 
