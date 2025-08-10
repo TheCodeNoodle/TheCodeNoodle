@@ -24,9 +24,9 @@ class MohamedAlouardi:
         
     def future_goals(self):
         return [
-            "🎯 Actually understand half the things I code",
+            "🎯 Actually understand half the things i code",
             "🚀 Build cool projects, hopefully that work",
-            "🌍 Contribute to open-source so I can brag about it",
+            "🌍 Contribute to open-source so i can brag about it",
             "💡 Combine AI with art because it sounds fancy"
         ]
 
