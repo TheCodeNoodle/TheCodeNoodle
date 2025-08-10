@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Graphic+Design+Enthusiast;Machine+Learning+Explorer;Always+Learning+Something+New!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Graphic+Design+Enthusiast;Machine+Learning+Explorer)
   
   <img src="https://komarev.com/ghpvc/?username=TheCodeNoodle&color=00d9ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
