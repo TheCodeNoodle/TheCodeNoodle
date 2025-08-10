@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Mohamed Alouardi
+# 👋 Heey, I’m Mohamed Alouardi
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Graphic+Design+Enthusiast;Machine+Learning+Explorer)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Writes+Code;Breaks+Code;Pretends+to+Know+What+He's+Doing)
   
   <img src="https://komarev.com/ghpvc/?username=TheCodeNoodle&color=00d9ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
@@ -18,16 +18,16 @@ class MohamedAlouardi:
         self.name = "Mohamed Alouardi"
         self.age = 19
         self.location = "Rabat, Morocco"
-        self.role = "AI/Data Science Student"
-        self.passions = ["Machine Learning", "Data Analysis", "Graphic Design"]
-        self.currently_learning = ["Deep Learning", "Computer Vision", "NLP"]
+        self.role = "AI/Data Science Student (allegedly)"
+        self.passions = ["Python", "C++", "Making apps nobody asked for"]
+        self.currently_learning = ["Deep Learning", "Computer Vision", "NLP (because why not)"]
         
     def future_goals(self):
         return [
-            "🎯 Master AI/ML fundamentals",
-            "🚀 Build impactful data science projects",
-            "🌍 Contribute to open-source community",
-            "💡 Combine AI with creative design"
+            "🎯 Actually understand half the things I code",
+            "🚀 Build cool projects, hopefully that work",
+            "🌍 Contribute to open-source so I can brag about it",
+            "💡 Combine AI with art because it sounds fancy"
         ]
 
 me = MohamedAlouardi()
@@ -35,7 +35,7 @@ me = MohamedAlouardi()
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tools I Poke at Until They Work
 
 <div align="center">
 
@@ -67,7 +67,7 @@ me = MohamedAlouardi()
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Stats That Make Me Look Productive
 
 <div align="center">
   
@@ -84,7 +84,7 @@ me = MohamedAlouardi()
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Stuff I Made (and it actually runs)
 
 <div align="center">
 
@@ -96,28 +96,26 @@ me = MohamedAlouardi()
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Pretending to Focus On
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔬 Learning Journey
-- 🧠 **Deep Learning** with TensorFlow
-- 👁️ **Computer Vision** applications  
-- 🗣️ **Natural Language Processing**
-- 📈 **Advanced Statistics** & probability
-- 🔍 **Data Mining** techniques
+### 🔬 Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision  
+- 🗣️ NLP
+- 📈 Advanced Statistics
 
 </td>
 <td width="50%">
 
 ### 🛠️ Building
-- 🤖 ML prediction models
-- 📊 Interactive data dashboards
-- 🎨 Design automation tools
-- 🌐 Data scraping projects
-- 📱 AI-powered applications
+- 🤖 ML models
+- 📊 Dashboards  
+- 🌐 Scrapers
+- 📱 AI-powered stuff
 
 </td>
 </tr>
@@ -125,19 +123,19 @@ me = MohamedAlouardi()
 
 ---
 
-## 🌟 Fun Facts
+## 🌟 Fun-ish Facts
 
 <div align="center">
 
-🎨 **Design Meets Data** - I love combining my graphic design skills with data visualization  
-🧩 **Problem Solver** - I enjoy breaking down complex problems into simple solutions  
-🌍 **Culture Explorer** - Always curious about different cultures and languages  
+🎨 Mixes design with data because it *sounds* impressive  
+🧩 Solves problems by creating new ones  
+🌍 Would learn every language in the world, but lazy  
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Stalk Me (Digitally)
 
 <div align="center">
 
@@ -147,6 +145,6 @@ me = MohamedAlouardi()
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks+For+Scrolling&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 
 </div>
