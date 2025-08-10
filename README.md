@@ -1,199 +1,152 @@
-# 📁 FileOrganizer
+# 👋 Hey, I'm Mohamed Alouardi
+
 <div align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/6acefc26-89b3-4eda-9cae-cbbb8529bd9b" 
-    alt="File Organizer app in light mode" 
-    width="410" 
-    height="529" 
-    style="margin-right: 20px;"
-  />
-  <img 
-    src="https://github.com/user-attachments/assets/c2d2ca8e-b512-4b59-9243-231a72d671cf" 
-    alt="File Organizer app in dark mode" 
-    width="410" 
-    height="529"
-  />
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Graphic+Design+Enthusiast;Machine+Learning+Explorer;Always+Learning+Something+New!)
+  
+  <img src="https://komarev.com/ghpvc/?username=TheCodeNoodle&color=00d9ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  
 </div>
 
-A powerful Python application that automatically organizes files in a directory by moving them into categorized folders based on their file extensions. Supports **300+ file formats** across all major categories.
-
-## ✨ Features
-
-- Automatically sorts files into folders: Programs, Documents, Zip, Videos, Pictures, Music, and Other
-- **Extensive format support** - Over 300 file extensions including modern formats like AVIF, HEIC, and JXL
-- Creates only the folders needed based on files present
-- Handles duplicate filenames by adding numbers (e.g., file(1).txt)
-- **Professional-grade coverage** including RAW camera formats, development tools, and specialized formats
-- Modern GUI with dark/light mode support
-
-## 📂 File Structure
-
-```
-fileorganizer/
-├── main.py          # GUI application
-├── organizer.py     # Core logic for moving files, undo changes
-├── folders.py       # Creates necessary folders
-└── constants.py     # Comprehensive file extension definitions (300+ formats)
-```
-
-## 🚀 Getting Started
-
-### 📋 Requirements
-
-**System Requirements:**
-- **Python 3.8+** (Python 3.10+ recommended)
-- **Cross-platform compatibility** (Windows, macOS, Linux)
-
-> **Note:** Dark/Light mode detection is Windows-specific. The app runs on all platforms but uses the default theme on non-Windows systems.
-
-**Dependencies:**
-- `customtkinter` - Modern UI framework
-- `tkinter` - GUI toolkit (pre-installed with Python)
-- Built-in modules: `platform`, `shutil`, `json`, `os`, `winreg` (Windows only)
-
 ---
 
-### 📦 Installation
+## 🧑‍💻 About Me
 
-#### Windows
-- Simply run the automated installer:
-```batch
-install_requirements.bat
-```
-- Or you can just download the .exe file <a href="https://github.com/TheCodeNoodle/file-organizer/releases/tag/v0.3.0">from here</a>.
+```python
+class MohamedAlouardi:
+    def __init__(self):
+        self.name = "Mohamed Alouardi"
+        self.age = 19
+        self.location = "Rabat, Morocco"
+        self.role = "AI/Data Science Student"
+        self.passions = ["Machine Learning", "Data Analysis", "Graphic Design"]
+        self.currently_learning = ["Deep Learning", "Computer Vision", "NLP"]
+        
+    def future_goals(self):
+        return [
+            "🎯 Master AI/ML fundamentals",
+            "🚀 Build impactful data science projects",
+            "🌍 Contribute to open-source community",
+            "💡 Combine AI with creative design"
+        ]
 
-#### Linux/macOS
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/TheCodeNoodle/file-organizer.git
-   ```
-
-2. **Navigate to the project directory:**
-   ```bash
-   cd file-organizer
-   ```
-
-3. **Make the install script executable:**
-   ```bash
-   chmod +x install_requirements.sh
-   ```
-
-4. **Run the installer:**
-   ```bash
-   ./install_requirements.sh
-   ```
-
-#### Manual Installation (All Platforms)
-If you prefer to install dependencies manually:
-```bash
-pip install customtkinter
+me = MohamedAlouardi()
 ```
 
 ---
 
-### 🎯 Running the Application
+## 🛠️ Tech Stack & Tools
 
-Once dependencies are installed, launch the file organizer:
+<div align="center">
 
-```bash
-python main.py
-```
+### 🤖 AI/ML & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**That's it!** The application will start with your system's theme (dark/light mode on Windows).
+### 🎨 Design & Creative
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logoColor=white)
 
-## 📁 Comprehensive File Type Support
+### 💻 Development
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🎵 **Music (30+ formats)**
-- **Lossless**: FLAC, ALAC, WAV, AIFF, DSD formats
-- **Compressed**: MP3, AAC, OGG, Opus, WMA
-- **Specialized**: Tracker modules (.mod, .xm), MIDI files, rare codecs
-
-### 💻 **Programs (50+ formats)**
-- **Windows**: EXE, MSI, batch files, scripts, Control Panel applets
-- **Linux/Unix**: Shell scripts, binary executables, packages (DEB, RPM)
-- **Mobile**: APK (Android), IPA (iOS), cross-platform packages
-- **Development**: Python, Java, JavaScript, and 15+ programming languages
-
-### 📄 **Documents (60+ formats)**
-- **Office**: Microsoft Office (DOC, XLS, PPT) + templates and macros
-- **Open Formats**: OpenDocument (ODT, ODS, ODP) and variants
-- **Publishing**: LaTeX, Adobe (PDF, InDesign), e-books (EPUB, MOBI)
-- **Text**: Markdown, plain text, rich text, and documentation formats
-
-### 🗜️ **Archives (50+ formats)**
-- **Common**: ZIP, RAR, 7Z, TAR with all compression variants
-- **Disk Images**: ISO, IMG, DMG, and virtual disk formats
-- **Legacy**: ARJ, LZH, ACE, and vintage archive formats
-- **Specialized**: Browser extensions, backup formats, torrents
-
-### 🎬 **Videos (40+ formats)**
-- **Standard**: MP4, MKV, AVI, MOV, WebM
-- **Professional**: RAW cinema formats (R3D, BRAW), broadcast formats
-- **Streaming**: HLS, DASH, Flash video
-- **Subtitles**: SRT, VTT, ASS, and other caption formats
-
-### 🖼️ **Pictures (70+ formats)**
-- **Common**: JPEG, PNG, GIF, WebP, modern formats (AVIF, HEIC, JXL)
-- **RAW Camera**: Support for all major camera brands (Canon, Nikon, Sony, etc.)
-- **Professional**: Photoshop (PSD), vector formats (SVG, AI), design tools
-- **Specialized**: Medical imaging (DICOM), HDR formats, scientific images
-
-### 📊 **Format Statistics**
-- **Total Extensions**: 300+
-- **Modern Formats**: Includes cutting-edge codecs like AVIF, JXL, Opus
-- **Professional Coverage**: RAW camera files, cinema formats, CAD files
-- **Legacy Support**: Vintage formats and legacy file types
-- **Cross-Platform**: Windows, macOS, and Linux formats
+</div>
 
 ---
 
-### ✅ Implemented Features
+## 📊 GitHub Statistics
 
-- **Graphical Interface (GUI)**: Full-featured desktop app built with CustomTkinter
-- **Dark/Light Mode Support**: Automatically detects Windows theme and adapts colors
-- **Persistent Undo Functionality**: Reverse file organization actions even after restarting, using a changelog file
-- **Automatic Folder Creation**: Creates only the folders needed based on files present
-- **Duplicate Handling**: Prevents overwriting by appending numbers (e.g., file(1).txt)
-- **Industry-Leading Extension Support**: 300+ file formats across all categories
-- **Real-Time Feedback**: Status messages displayed directly in the GUI
-- **Safe Operations**: Skips important files like the changelog and existing folders
-- **Smart Categorization**: Handles edge cases and multi-extension files
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheCodeNoodle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodeNoodle&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+</div>
 
----
-
-### 📋 Planned Improvements
-
-- **Custom Categories**: Allow users to define their own file categories and extensions
-- **Batch Processing**: Organize multiple folders at once
-- **Progress Bar**: Show progress for large directories with file count
-- **Configuration File**: Save user preferences and custom settings
-- **Nested Organization**: Sub-categorize files (e.g., separate RAW vs JPEG, video by resolution)
-- **Dry Run Mode**: Preview changes before actually moving files
-- **Enhanced Logging**: Keep detailed records with timestamps and file paths
-- **Command Line Arguments**: Optional CLI flags for automation and scripting
-- **Cross-Platform Theming**: Extend dark/light mode detection to macOS and Linux
-- **File Type Detection**: Use file headers in addition to extensions for accuracy
-- **Smart Duplicate Handling**: Compare file contents to avoid unnecessary duplicates
-
-## 🔍 Smart File Detection
-
-The organizer uses intelligent file categorization:
-- **Extension-based sorting** with case-insensitive matching
-- **Multi-extension handling** (e.g., `.tar.gz` uses the final extension)
-- **Priority system** ensures files go to the most appropriate category
-- **Future-proof** design easily accommodates new file formats
-
-## ⚠️ Important Notes
-
-- Files without extensions and existing folders in the target directory are left untouched
-- The system prioritizes file safety - no data loss from conflicts
-- **Comprehensive format support** means virtually any file will be properly categorized
-- RAW camera files and professional formats are fully supported for creative workflows
-
-## 📖 Documentation
-
-For a complete list of all supported file extensions with descriptions, see the [Supported Extensions Guide](EXTENSIONS.md) that documents all 300+ supported formats.
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheCodeNoodle&theme=tokyonight&hide_border=true)
+  
+</div>
 
 ---
 
-*FileOrganizer: Making file management effortless with professional-grade format support.*
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodeNoodle&repo=linear-income-prediction&theme=tokyonight)](https://github.com/TheCodeNoodle/linear-income-prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodeNoodle&repo=mubawab-real-estate-scraper&theme=tokyonight)](https://github.com/TheCodeNoodle/mubawab-real-estate-scraper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodeNoodle&repo=file-organizer&theme=tokyonight)](https://github.com/TheCodeNoodle/file-organizer)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 Learning Journey
+- 🧠 **Deep Learning** with TensorFlow
+- 👁️ **Computer Vision** applications  
+- 🗣️ **Natural Language Processing**
+- 📈 **Advanced Statistics** & probability
+- 🔍 **Data Mining** techniques
+
+</td>
+<td width="50%">
+
+### 🛠️ Building
+- 🤖 ML prediction models
+- 📊 Interactive data dashboards
+- 🎨 Design automation tools
+- 🌐 Data scraping projects
+- 📱 AI-powered applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 Fun Facts
+
+<div align="center">
+
+🎨 **Design Meets Data** - I love combining my graphic design skills with data visualization  
+🧩 **Problem Solver** - I enjoy breaking down complex problems into simple solutions  
+🌍 **Culture Explorer** - Always curious about different cultures and languages  
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alouardi-187162255/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheCodeNoodle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:epiclayz.contact@gmail.com)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+
+</div>
