@@ -1,4 +1,4 @@
-# 👋 Heey, I’m Mohamed Alouardi
+# 👋 Eey, I’m Mohamed Alouardi
 
 <div align="center">
   
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## ✨ About Me
 
 ```python
 class MohamedAlouardi:
@@ -24,10 +24,10 @@ class MohamedAlouardi:
         
     def future_goals(self):
         return [
-            "🎯 Actually understand half the things i code",
-            "🚀 Build cool projects, hopefully that work",
-            "🌍 Contribute to open-source so i can brag about it",
-            "💡 Combine AI with art because it sounds fancy"
+            "Actually understand half the things i code",
+            "Build cool projects, hopefully that work",
+            "Contribute to open-source so i can brag about it",
+            "Combine AI with art because it sounds fancy"
         ]
 
 me = MohamedAlouardi()
@@ -35,11 +35,11 @@ me = MohamedAlouardi()
 
 ---
 
-## 🛠️ Tools I Poke at Until They Work
+## ✨ Tools I Poke at Until They Work
 
 <div align="center">
 
-### 🤖 AI/ML & Data Science
+### AI/ML & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -47,13 +47,13 @@ me = MohamedAlouardi()
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🎨 Design & Creative
+### Design & Creative
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logoColor=white)
 
-### 💻 Development
+### Development
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -67,7 +67,7 @@ me = MohamedAlouardi()
 
 ---
 
-## 📊 Stats That Make Me Look Productive
+## ✨Stats That Make Me Look Productive
 
 <div align="center">
   
@@ -84,7 +84,7 @@ me = MohamedAlouardi()
 
 ---
 
-## 🚀 Stuff I Made (and it actually runs)
+## ✨ Stuff I Made (and it actually runs)
 
 <div align="center">
 
@@ -95,35 +95,39 @@ me = MohamedAlouardi()
 </div>
 
 ---
-
-## 🎯 Currently Pretending to Focus On
+ 
+## ✨ Currently Pretending to Focus On
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" style="text-align: left;">
 
 ### 🔬 Learning
-- 🧠 Deep Learning
-- 👁️ Computer Vision  
-- 🗣️ NLP
-- 📈 Advanced Statistics
+- Deep Learning
+- Computer Vision  
+- NLP
+- Advanced Statistics
 
 </td>
-<td width="50%">
+<td width="50%" style="text-align: left;">
 
 ### 🛠️ Building
-- 🤖 ML models
-- 📊 Dashboards  
-- 🌐 Scrapers
-- 📱 AI-powered stuff
-
+- ML models
+- Dashboards  
+- Scrapers
+- AI-powered stuff
+  
 </td>
 </tr>
 </table>
 
+</div>
+
+
 ---
 
-## 🌟 Fun-ish Facts
+##  ✨ Fun-ish Facts
 
 <div align="center">
 
@@ -135,7 +139,7 @@ me = MohamedAlouardi()
 
 ---
 
-## 📫 Stalk Me (Digitally)
+##  ✨ Stalk Me
 
 <div align="center">
 
@@ -145,6 +149,5 @@ me = MohamedAlouardi()
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks+For+Scrolling&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,15,25&height=160&section=footer&text=✨+IK+that+the+Emojis+look+ass+✨&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=70&fontWeight=600" alt="Capsule Render Banner" />
 
-</div>
