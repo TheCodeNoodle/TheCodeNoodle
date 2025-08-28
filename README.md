@@ -1,4 +1,4 @@
-# 👋 Eey, I’m Mohamed Alouardi
+# Mohamed Alouardi
 
 <div align="center">
   
@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ About Me
+## About Me:
 
 ```python
 class MohamedAlouardi:
@@ -25,8 +25,8 @@ class MohamedAlouardi:
     def future_goals(self):
         return [
             "Actually understand half the things i code",
-            "Build cool projects, hopefully that work",
-            "Contribute to open-source so i can brag about it",
+            "Build cool projects",
+            "Contribute to open-source",
             "Combine AI with art because it sounds fancy"
         ]
 
@@ -35,7 +35,7 @@ me = MohamedAlouardi()
 
 ---
 
-## ✨ Tools I Poke at Until They Work
+## Tools I Poke at Until They Work:
 
 <div align="center">
 
@@ -67,7 +67,7 @@ me = MohamedAlouardi()
 
 ---
 
-## ✨Stats That Make Me Look Productive
+## Stats That Make Me Look Productive:
 
 <div align="center">
   
@@ -84,7 +84,7 @@ me = MohamedAlouardi()
 
 ---
 
-## ✨ Stuff I Made (and it actually runs)
+## Stuff I Made:
 
 <div align="center">
 
@@ -96,50 +96,55 @@ me = MohamedAlouardi()
 
 ---
  
-## ✨ Currently Pretending to Focus On
-<div align="center">
+## What I'm Building & Learning:
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" style="text-align: left;">
 
-### 🔬 Learning
-- Deep Learning
-- Computer Vision  
-- NLP
-- Advanced Statistics
+### Recent Projects:
+- **File Management System** - Automated organization too
+- **Web Data Pipeline** - Large-scale scraping & collection framework
+- **Salary Predictor** - Linear regression model for compensation analysis
 
 </td>
 <td width="50%" style="text-align: left;">
 
-### 🛠️ Building
-- ML models
-- Dashboards  
-- Scrapers
-- AI-powered stuff
-  
+### Current Focus:
+- **Deep Learning** - Neural networks & advanced architectures
+- **Computer Vision** - Image processing & pattern recognition
+- **NLP & Language Models** - Text analysis & generation
+- **Statistical Modeling** - Advanced analytics & predictions
+
 </td>
 </tr>
 </table>
-
 </div>
+
+### Tech Stack & Expertise:
+**Data & ML:** Python • Pandas • Scikit-learn • TensorFlow • Statistical Analysis  
+**Web & APIs:** REST APIs • Web Scraping • Data Pipelines • Real-time Processing  
+**Tools & Automation:** File Systems • Data Collection • Dashboard Creation  
+
+---
 
 
 ---
 
-##  ✨ Fun-ish Facts
+## Fun-ish Facts
 
 <div align="center">
 
-🎨 Mixes design with data because it *sounds* impressive  
-🧩 Solves problems by creating new ones  
-🌍 Would learn every language in the world, but lazy  
+Mixes design with data because it *sounds* impressive  
+Solves problems by creating new ones  
+Would learn every language in the world, but lazy  
 
 </div>
 
 ---
 
-##  ✨ Stalk Me
+## Stalk Me
 
 <div align="center">
 
@@ -149,5 +154,5 @@ me = MohamedAlouardi()
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,15,25&height=160&section=footer&text=✨+IK+that+the+Emojis+look+ass+✨&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=70&fontWeight=600" alt="Capsule Render Banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d1b69&height=160&section=header&text=Life+is+shit,+so+be+nice+pls&fontSize=36&fontColor=f5f5dc&animation=fadeIn&fontAlignY=50&fontWeight=400&stroke=f5f5dc&strokeWidth=2" alt="Lofi Retro Banner" />
 
