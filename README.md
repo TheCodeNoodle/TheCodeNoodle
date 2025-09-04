@@ -20,7 +20,7 @@ class MohamedAlouardi:
         self.location = "Rabat, Morocco"
         self.role = "AI/Data Science Student (allegedly)"
         self.passions = ["Python", "C++", "Making apps nobody asked for"]
-        self.currently_learning = ["Deep Learning", "Computer Vision", "NLP (because why not)"]
+        self.currently_learning = ["Deep Learning", "Computer Vision", "NLP"]
         
     def future_goals(self):
         return [
