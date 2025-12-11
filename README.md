@@ -27,7 +27,7 @@ class MohamedAlouardi:
             "Actually understand half the things i code",
             "Build cool projects",
             "Contribute to open-source",
-            "Combine AI with art because it sounds fancy"
+            "Combine AI with art cuz it sounds fancy"
         ]
 
 me = MohamedAlouardi()
@@ -35,7 +35,7 @@ me = MohamedAlouardi()
 
 ---
 
-## Tools I Poke at Until They Work:
+## Tools:
 
 <div align="center">
 
@@ -67,7 +67,7 @@ me = MohamedAlouardi()
 
 ---
 
-## Stats That Make Me Look Productive:
+## Stats:
 
 <div align="center">
   
@@ -112,7 +112,7 @@ me = MohamedAlouardi()
 <td width="50%" style="text-align: left;">
 
 ### Current Focus:
-- **Deep Learning** - Neural networks & advanced architectures
+- **Deep Learning** - Neural networks & advanced architectures (JK)
 - **Computer Vision** - Image processing & pattern recognition
 - **NLP & Language Models** - Text analysis & generation
 - **Statistical Modeling** - Advanced analytics & predictions
@@ -130,21 +130,10 @@ me = MohamedAlouardi()
 ---
 
 
----
-
-## Fun-ish Facts
-
-<div align="center">
-
-Mixes design with data because it *sounds* impressive  
-Solves problems by creating new ones  
-Would learn every language in the world, but lazy  
-
-</div>
 
 ---
 
-## Stalk Me
+## Contact:
 
 <div align="center">
 
@@ -154,5 +143,5 @@ Would learn every language in the world, but lazy
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d1b69&height=160&section=header&text=Life+is+shit,+so+be+nice+pls&fontSize=36&fontColor=f5f5dc&animation=fadeIn&fontAlignY=50&fontWeight=400&stroke=f5f5dc&strokeWidth=2" alt="Lofi Retro Banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d1b69&height=160&section=header&text=Hola+Holala&fontSize=36&fontColor=f5f5dc&animation=fadeIn&fontAlignY=50&fontWeight=400&stroke=f5f5dc&strokeWidth=2" alt="Retro Banner" />
 
