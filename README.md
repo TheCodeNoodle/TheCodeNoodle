@@ -59,6 +59,6 @@ Currently building **SyncSave**, a self-hosted save-synchronization tool for sha
 
 <div align="center">
 
-**Contact:** [thecodenoodle.github.io](https://thecodenoodle.github.io)
+**Contact:** [epiclayz.contact@gmail.com](epiclayz.contact@gmail.com)
 
 </div>
